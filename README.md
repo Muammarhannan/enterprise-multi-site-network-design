@@ -122,6 +122,6 @@ Verified access from branch offices to services hosted in the HQ Server Farm VLA
 
 ## 👨‍💻 Author
 
-Mu'ammar Hannan Najib
+Mu'Ammar Hannan Najib
 
 Aspiring Network Engineer | Cisco Networking | CCNA Learning Journey
